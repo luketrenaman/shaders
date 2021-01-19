@@ -1,4 +1,4 @@
-// Author @luketrenaman - 2020
+// Author @luketrenaman - 2021
 // http://luketrenaman.com
 
 #ifdef GL_ES
